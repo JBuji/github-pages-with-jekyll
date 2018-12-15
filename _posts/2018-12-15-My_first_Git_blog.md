@@ -1,3 +1,8 @@
+---
+title: Dolce Vita...
+date: 2018-12-15
+---
+
 My first Git blog
 
 # Title :   Dolce Vita.............
