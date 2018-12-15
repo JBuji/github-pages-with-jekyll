@@ -8,4 +8,4 @@ I'm glad you are here. I plan to talk about ...
 
  [x] 3. etc...   ------>>> [link](url)
 
- [x] 4. **_italic - bold_**
+ [x] 4. **_italic - bold_**------------------->>>
